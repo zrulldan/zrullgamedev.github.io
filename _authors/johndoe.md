@@ -1,9 +1,9 @@
 ---
 name: Daniel Zrull
-username: 
+username: ""
 bio: "I am a game systems designer from Plymouth, MI, and a student at Michigan State University."
-site: 
-avatar: 
+site: zrullgamedev.github.io
+avatar: microsoft.png
 email: dzrull@comcast.net
 social:
     - title: "github"
