@@ -1,10 +1,10 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+name: Daniel Zrull
+username: 
+bio: "I am a game systems designer from Plymouth, MI, and a student at Michigan State University."
+site: 
+avatar: 
+email: dzrull@comcast.net
 social:
     - title: "github"
       url: "https://github.com/johndoe"
